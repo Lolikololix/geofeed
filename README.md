@@ -10,5 +10,5 @@ file format:
 ```
 
 make file like this:  
-`https://raw.githubusercontent.com/<your_Github_username>/<your_repository_name>/<branch_name>/<file_name>.<extension_name>`
+`https://raw.githubusercontent.com/<your_Github_username>/<your_repository_name>/<branch_name>/<file_name>.<extension_name>`  
 fill geofeed atribute of RIPE object with a link
